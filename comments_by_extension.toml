@@ -1,0 +1,1277 @@
+[4db]
+line = "//"
+name = "4D"
+
+[4dc]
+line = "//"
+name = "4D"
+
+[LassoApp]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "Lasso"
+
+[abc]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "Clean"
+
+[acl2]
+line = ";"
+multi_start = "#|"
+multi_end = "|#"
+name = "ACL2"
+
+[adb]
+line = "--"
+name = "Ada"
+
+[ads]
+line = "--"
+name = "Ada"
+
+[ahk]
+line = ";"
+multi_start = "/*"
+multi_end = "*/"
+name = "AutoHotkey"
+
+[applescript]
+line = "--"
+line_alt = "#"
+multi_start = "(*"
+multi_end = "*)"
+name = "AppleScript"
+
+[as]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "ActionScript"
+
+[asm]
+line = ";"
+line_alt = "*"
+name = "Assembly"
+
+[asy]
+line = "//"
+name = "Asymptote"
+
+[au3]
+line = ";"
+multi_start = "#cs"
+multi_end = "#ce"
+name = "AutoIt"
+
+[awk]
+line = "#"
+name = "AWK"
+
+[bas]
+line = "'"
+line_alt = "REM "
+inline = ": REM "
+name = "Run BASIC"
+
+[bash]
+line = "#"
+name = "UNIX Shell"
+
+[bat]
+line = "rem"
+name = "Batch File"
+
+[bc]
+multi_start = "/*"
+multi_end = "*/"
+name = "bc"
+
+[blsq]
+multi_start = ""
+multi_end = "\"vv"
+name = "Burlesque"
+
+[bra]
+multi_start = "{"
+multi_end = "}"
+name = "Bracmat"
+
+[brat]
+line = "#"
+multi_start = "#*"
+multi_end = "*#"
+name = "Brat"
+
+[c]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "C"
+
+["c++"]
+line = "//"
+name = "C++"
+
+[cbl]
+line_solo = "      *"
+line_solo_alt = "      D"
+name = "COBOL"
+
+[cc]
+line = "//"
+name = "C++"
+
+[cfm]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+multi_start_alt = "<!---"
+multi_end_alt = "--->"
+multi_start_alt2 = "<!--"
+multi_end_alt2 = "-->"
+name = "ColdFusion"
+
+[chpl]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "Chapel"
+
+[ck]
+line = "//"
+line_alt = "<--"
+name = "ChucK"
+
+[cl]
+line = ";;"
+inline = ";"
+line_alt = ";;;"
+line_alt2 = ";;;;"
+name = "Common Lisp"
+
+[clj]
+line = ";;"
+name = "Clojure"
+
+[cljc]
+line = ";;"
+name = "Clojure"
+
+[cljs]
+line = ";;"
+name = "Clojure"
+
+[cob]
+line_solo = "      *"
+line_solo_alt = "      D"
+name = "COBOL"
+
+[coffee]
+line = "#"
+multi_start = "###"
+multi_end = "###"
+name = "CoffeeScript"
+
+[cpp]
+line = "//"
+name = "C++"
+
+[cpy]
+line_solo = "      *"
+line_solo_alt = "      D"
+name = "COBOL"
+
+[cs]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "C#"
+
+[csh]
+line = "#"
+name = "UNIX Shell"
+
+[cxx]
+line = "//"
+name = "C++"
+
+[d]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "D"
+
+[dc]
+line = "#"
+multi_start = "["
+multi_end = "] sz"
+name = "dc"
+
+[dcl]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "Clean"
+
+[dylan]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "Dylan"
+
+[e]
+line = "--"
+multi_start = "/*"
+multi_end = "*/"
+name = "Euphoria"
+
+[edb]
+line = "--"
+multi_start = "/*"
+multi_end = "*/"
+name = "Euphoria"
+
+[edn]
+line = ";;"
+name = "Clojure"
+
+[el]
+line = ";;"
+inline = ";"
+line_alt = ";;;"
+line_alt2 = ";;;;"
+name = "Emacs Lisp"
+
+[ela]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "Ela"
+
+[elm]
+line = "--"
+multi_start = "{-"
+multi_end = "-}"
+name = "Elm"
+
+[erl]
+line = "%"
+name = "Erlang"
+
+[ex]
+line = "#"
+name = "Elixir"
+
+[exs]
+line = "#"
+name = "Elixir"
+
+[exw]
+line = "--"
+multi_start = "/*"
+multi_end = "*/"
+name = "Phix"
+
+[f]
+line_solo = "C     "
+inline = "!"
+name = "Fortran"
+
+[f90]
+line_solo = "C     "
+inline = "!"
+name = "Fortran"
+
+[factor]
+line = "! "
+line_alt = "#! "
+name = "Factor"
+
+[fal]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "Falcon"
+
+[for]
+line_solo = "C     "
+inline = "!"
+name = "Fortran"
+
+[frink]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "Frink"
+
+[fs]
+line = "//"
+multi_start = "(*"
+multi_end = "*)"
+name = "F#"
+
+[fsi]
+line = "//"
+multi_start = "(*"
+multi_end = "*)"
+name = "F#"
+
+[fsscript]
+line = "//"
+multi_start = "(*"
+multi_end = "*)"
+name = "F#"
+
+[fsx]
+line = "//"
+multi_start = "(*"
+multi_end = "*)"
+name = "F#"
+
+[fth]
+line = "\\"
+line_start = "( "
+line_end = ")"
+multi_start = "(( "
+multi_end = "))"
+multi_start_alt = "/*"
+multi_end_alt = "*/"
+multi_start_alt2 = "(*"
+multi_end_alt2 = "*)"
+multi_solo_start = "comment:"
+multi_solo_end = "comment;"
+doc_multi_solo_start = "doc"
+doc_multi_solo_end = "enddoc"
+name = "Forth"
+
+[fut]
+line = "--"
+name = "Futhark"
+
+[fuze]
+line = "//"
+line_alt = "# "
+line_alt2 = "REM "
+line_alt3 = "'"
+line_alt4 = "''"
+name = "FUZE BASIC"
+
+[fy]
+line = "#"
+name = "Fancy"
+
+[gema]
+line = "!"
+name = "Gema"
+
+[glisp]
+line = ";;"
+inline = ";"
+multi_start = "#|"
+multi_end = "|#"
+name = "EchoLisp"
+
+[go]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "Go"
+
+[gp]
+line = "\\\\"
+multi_start = "/*"
+multi_end = "*/"
+name = "PARI/GP"
+
+[gri]
+line = "#"
+line_alt = "//"
+name = "Gri"
+
+[groovy]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "Groovy"
+
+[h]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "C"
+
+["h++"]
+line = "//"
+name = "C++"
+
+[hh]
+line = "//"
+name = "C++"
+
+[hpp]
+line = "//"
+name = "C++"
+
+[hrl]
+line = "%"
+name = "Erlang"
+
+[hs]
+line = "--"
+doc_line = "-- |"
+doc_line_alt = "-- ^"
+multi_start = "{-"
+multi_end = "-}"
+doc_multi_start = "{-|"
+doc_multi_end = "-}"
+name = "Haskell"
+
+[htm]
+multi_start = "<!--"
+multi_end = "-->"
+name = "HTML"
+
+[html]
+multi_start = "<!--"
+multi_end = "-->"
+name = "HTML"
+
+[hx]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "Haxe"
+
+[hxx]
+line = "//"
+name = "C++"
+
+[icl]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "Clean"
+
+[icn]
+line = "#"
+inline = "#:"
+name = "Icon and Unicon"
+
+[idl]
+line = ";"
+name = "IDL"
+
+[idr]
+line = "--"
+doc_line = "|||"
+multi_start = "{-"
+multi_end = "-}"
+name = "Idris"
+
+[io]
+line = "#"
+line_alt = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "Io"
+
+[jl]
+line = "#"
+multi_start = "#="
+multi_end = "=#"
+name = "Julia"
+
+[jq]
+line = "#"
+name = "jq"
+
+[js]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "JavaScript"
+
+[ksh]
+line = "#"
+name = "UNIX Shell"
+
+[kt]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+doc_multi_start = "/**"
+doc_multi_end = "*/"
+name = "Kotlin"
+
+[kts]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+doc_multi_start = "/**"
+doc_multi_end = "*/"
+name = "Kotlin"
+
+[l]
+line = ";;"
+inline = ";"
+line_alt = ";;;"
+line_alt2 = ";;;;"
+name = "Common Lisp"
+
+[lasso]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "Lasso"
+
+[lgt]
+line = "%"
+multi_start = "/*"
+multi_end = "*/"
+name = "Logtalk"
+
+[lhs]
+line = "--"
+doc_line = "-- |"
+doc_line_alt = "-- ^"
+multi_start = "{-"
+multi_end = "-}"
+doc_multi_start = "{-|"
+doc_multi_end = "-}"
+name = "Haskell"
+
+[lidr]
+line = "--"
+doc_line = "|||"
+multi_start = "{-"
+multi_end = "-}"
+name = "Idris"
+
+[lily]
+line = "#"
+multi_start = "#["
+multi_end = "]#"
+name = "Lily"
+
+[lisp]
+line = ";;"
+inline = ";"
+line_alt = ";;;"
+line_alt2 = ";;;;"
+name = "Common Lisp"
+
+[litcoffee]
+line = "#"
+multi_start = "###"
+multi_end = "###"
+name = "CoffeeScript"
+
+[lsp]
+line = ";;"
+inline = ";"
+line_alt = ";;;"
+line_alt2 = ";;;;"
+name = "Common Lisp"
+
+[lua]
+line = "--"
+multi_start = "--[["
+multi_end = "--]]"
+multi_start_alt = "--[====["
+multi_end_alt = "--]====]"
+name = "Lua"
+
+[ly]
+line = "%"
+multi_start = "%{"
+multi_end = "%}"
+name = "Lilypond"
+
+[m]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "Objective-C"
+
+[m4]
+line = "dnl"
+multi_start = "divert(-1)"
+multi_end = "divert"
+line_alt = "m4_dnl"
+multi_start_alt = "m4_divert(-1)"
+multi_end_alt = "m4_divert"
+name = "M4"
+
+[mf]
+line = "%"
+name = "Metafont"
+
+[mirah]
+line = "#"
+multi_start = "/*"
+multi_end = "*/"
+name = "Mirah"
+
+[mirc]
+line = ";"
+multi_start = "/*"
+multi_end = "*/"
+name = "mIRC Scripting Language"
+
+[ml]
+multi_start = "(*"
+multi_end = "*)"
+doc_multi_start = "(**"
+doc_multi_end = "*)"
+name = "OCaml"
+
+[mli]
+multi_start = "(*"
+multi_end = "*)"
+doc_multi_start = "(**"
+doc_multi_end = "*)"
+name = "OCaml"
+
+[mm]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "Objective-C"
+
+[mt]
+multi_start = "/#"
+multi_end = "#/"
+name = "MontiLang"
+
+[n]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "Nemerle"
+
+[nb]
+multi_start = "(*"
+multi_end = "*)"
+name = "Mathematica / Wolfram Language"
+
+[neko]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+doc_multi_start = "/**"
+doc_multi_end = "**/"
+name = "Neko"
+
+[nim]
+line = "#"
+doc_line = "##"
+multi_start = "#["
+multi_end = "]#"
+multi_start_alt = "discard \"\"\""
+multi_end_alt = ""
+name = "Nim"
+
+[nrx]
+line = "--"
+multi_start = "/*"
+multi_end = "*/"
+name = "NetRexx"
+
+[nsh]
+line = "#"
+line_alt = ";"
+multi_start = "/*"
+multi_end = "*/"
+name = "NSIS"
+
+[obe]
+line = "#"
+multi_start = "#~"
+multi_end = "~#"
+name = "Objeck"
+
+[obl]
+line = "#"
+multi_start = "#~"
+multi_end = "~#"
+name = "Objeck"
+
+[obs]
+line = "#"
+multi_start = "#~"
+multi_end = "~#"
+name = "Objeck"
+
+[of]
+line = "//"
+name = "Oforth"
+
+[p]
+line = "%"
+multi_start = "/*"
+multi_end = "*/"
+name = "Prolog"
+
+[p6]
+line = "#"
+line_start = "#"
+multi_start = "#`("
+multi_end = ")"
+doc_multi_solo_start = "=begin comment"
+doc_multi_solo_end = "=end comment"
+name = "Perl 6"
+
+[pas]
+multi_start = "(*"
+multi_end = "*)"
+multi_start_alt = "{"
+multi_end_alt = "}"
+name = "Pascal"
+
+[pasm]
+line = "#"
+name = "PASM"
+
+[pb]
+line = ";"
+name = "PureBasic"
+
+[pbf]
+line = ";"
+name = "PureBasic"
+
+[pbi]
+line = ";"
+name = "PureBasic"
+
+[pbp]
+line = ";"
+name = "PureBasic"
+
+[pbv]
+line = ";"
+name = "PureBasic"
+
+[pde]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "Processing"
+
+[php]
+line = "//"
+line_alt = "#"
+multi_start = "/*"
+multi_end = "*/"
+doc_multi_start = "/**"
+doc_multi_end = "*/"
+name = "PHP"
+
+[php-s]
+line = "//"
+line_alt = "#"
+multi_start = "/*"
+multi_end = "*/"
+doc_multi_start = "/**"
+doc_multi_end = "*/"
+name = "PHP"
+
+[php3]
+line = "//"
+line_alt = "#"
+multi_start = "/*"
+multi_end = "*/"
+doc_multi_start = "/**"
+doc_multi_end = "*/"
+name = "PHP"
+
+[php4]
+line = "//"
+line_alt = "#"
+multi_start = "/*"
+multi_end = "*/"
+doc_multi_start = "/**"
+doc_multi_end = "*/"
+name = "PHP"
+
+[php5]
+line = "//"
+line_alt = "#"
+multi_start = "/*"
+multi_end = "*/"
+doc_multi_start = "/**"
+doc_multi_end = "*/"
+name = "PHP"
+
+[php7]
+line = "//"
+line_alt = "#"
+multi_start = "/*"
+multi_end = "*/"
+doc_multi_start = "/**"
+doc_multi_end = "*/"
+name = "PHP"
+
+[phps]
+line = "//"
+line_alt = "#"
+multi_start = "/*"
+multi_end = "*/"
+doc_multi_start = "/**"
+doc_multi_end = "*/"
+name = "PHP"
+
+[pht]
+line = "//"
+line_alt = "#"
+multi_start = "/*"
+multi_end = "*/"
+doc_multi_start = "/**"
+doc_multi_end = "*/"
+name = "PHP"
+
+[phtml]
+line = "//"
+line_alt = "#"
+multi_start = "/*"
+multi_end = "*/"
+doc_multi_start = "/**"
+doc_multi_end = "*/"
+name = "PHP"
+
+[pike]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "Pike"
+
+[pl]
+line = "%"
+multi_start = "/*"
+multi_end = "*/"
+name = "Prolog"
+
+[pl1]
+multi_start = "/*"
+multi_end = "*/"
+name = "PL/I"
+
+[pl6]
+line = "#"
+line_start = "#"
+multi_start = "#`("
+multi_end = ")"
+doc_multi_solo_start = "=begin comment"
+doc_multi_solo_end = "=end comment"
+name = "Perl 6"
+
+[pli]
+multi_start = "/*"
+multi_end = "*/"
+name = "PL/I"
+
+[pm]
+line = "#"
+doc_multi_solo_start = "=pod"
+doc_multi_solo_end = "=cut"
+name = "Perl"
+
+[pm6]
+line = "#"
+line_start = "#"
+multi_start = "#`("
+multi_end = ")"
+doc_multi_solo_start = "=begin comment"
+doc_multi_solo_end = "=end comment"
+name = "Perl 6"
+
+[pod]
+line = "#"
+doc_multi_solo_start = "=pod"
+doc_multi_solo_end = "=cut"
+name = "Perl"
+
+[pod6]
+line = "#"
+line_start = "#"
+multi_start = "#`("
+multi_end = ")"
+doc_multi_solo_start = "=begin comment"
+doc_multi_solo_end = "=end comment"
+name = "Perl 6"
+
+[pp]
+multi_start = "(*"
+multi_end = "*)"
+multi_start_alt = "{"
+multi_end_alt = "}"
+name = "Pascal"
+
+[pro]
+line = "%"
+multi_start = "/*"
+multi_end = "*/"
+name = "Prolog"
+
+[ps]
+line = "%"
+name = "PostScript"
+
+[ps1]
+line = "#"
+multi_start = "<#"
+multi_end = "#>"
+name = "PowerShell"
+
+[psm1]
+line = "#"
+multi_start = "<#"
+multi_end = "#>"
+name = "PowerShell"
+
+[py]
+line = "#"
+multi_start = "\"\"\""
+multi_end = "\"\"\""
+multi_start_alt = "'''"
+multi_end_alt = "'''"
+name = "Python"
+
+[r]
+line = ";"
+multi_start = "{"
+multi_end = "}"
+name = "REBOL"
+
+[rb]
+line = "#"
+multi_start = "=begin"
+multi_end = "=end"
+name = "Ruby"
+
+[reb]
+line = ";"
+multi_start = "{"
+multi_end = "}"
+name = "REBOL"
+
+[rex]
+multi_start = "/*"
+multi_end = "*/"
+name = "REXX"
+
+[rexx]
+multi_start = "/*"
+multi_end = "*/"
+name = "REXX"
+
+[ring]
+line = "//"
+line_alt = "#"
+multi_start = "/*"
+multi_end = "*/"
+name = "Ring"
+
+[rkt]
+line = ";"
+multi_start = "#|"
+multi_end = "|#"
+multi_start_alt = "#;("
+multi_end_alt = ")"
+name = "Racket"
+
+[rktd]
+line = ";"
+multi_start = "#|"
+multi_end = "|#"
+multi_start_alt = "#;("
+multi_end_alt = ")"
+name = "Racket"
+
+[rktl]
+line = ";"
+multi_start = "#|"
+multi_end = "|#"
+multi_start_alt = "#;("
+multi_end_alt = ")"
+name = "Racket"
+
+[rs]
+line = "//"
+doc_line = "///"
+doc_line_alt = "//!"
+multi_start = "/*"
+multi_end = "*/"
+doc_multi_start = "/**"
+doc_multi_end = "*/"
+doc_multi_start_alt = "/*!"
+doc_multi_end_alt = "*/"
+name = "Rust"
+
+[s]
+line = ";"
+line_alt = "*"
+name = "Assembly"
+
+[s7i]
+line = "#"
+multi_start = "(*"
+multi_end = "*)"
+name = "Seed7"
+
+[sa]
+line = "--"
+name = "Sather"
+
+[sapl]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "Clean"
+
+[sc]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "Scala"
+
+[scad]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "Openscad"
+
+[scala]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "Scala"
+
+[scm]
+line = ";"
+multi_start = "#|"
+multi_end = "|#"
+name = "Scheme"
+
+[scpt]
+line = "--"
+line_alt = "#"
+multi_start = "(*"
+multi_end = "*)"
+name = "AppleScript"
+
+[scptd]
+line = "--"
+line_alt = "#"
+multi_start = "(*"
+multi_end = "*)"
+name = "AppleScript"
+
+[sd7]
+line = "#"
+multi_start = "(*"
+multi_end = "*)"
+name = "Seed7"
+
+[sed]
+line = "#"
+name = "sed"
+
+[set]
+line = ">"
+name = "Set lang"
+
+[setl]
+line = "--"
+line_alt = "$"
+name = "SETL"
+
+[sf]
+line = "#"
+multi_start = "/*"
+multi_end = "*/"
+name = "Sidef"
+
+[sh]
+line = "#"
+name = "UNIX Shell"
+
+[sml]
+multi_start = "(*"
+multi_end = "*)"
+name = "Standard ML"
+
+[sno]
+line_solo = "*"
+inline = ";*"
+end_solo = "END"
+name = "SNOBOL4"
+
+[sql]
+line = "--"
+multi_start = "/*"
+multi_end = "*/"
+name = "SQL"
+
+[ss]
+line = ";"
+multi_start = "#|"
+multi_end = "|#"
+name = "Scheme"
+
+[st]
+multi_start = "\""
+multi_end = "\""
+name = "Smalltalk"
+
+[swift]
+line = "//"
+doc_line = "///"
+multi_start = "/*"
+multi_end = "*/"
+doc_multi_start = "/**"
+doc_multi_end = "*/"
+name = "Swift"
+
+[tcl]
+line = "#"
+inline = ";#"
+multi_start = "if 0 {"
+multi_end = "}"
+name = "Tcl"
+
+[tcsh]
+line = "#"
+name = "UNIX Shell"
+
+[tex]
+line = "%"
+name = "Plain TeX"
+
+[tl]
+line = "@;"
+line_alt = "@#"
+inline = ";"
+name = "TXR"
+
+[tlo]
+line = "@;"
+line_alt = "@#"
+inline = ";"
+name = "TXR"
+
+[txr]
+line = "@;"
+line_alt = "@#"
+inline = ";"
+name = "TXR"
+
+[u]
+line = "#"
+name = "Ursa"
+
+[v]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "Verilog"
+
+[vb]
+line = "'"
+line_alt = "REM "
+name = "Visual Basic.NET"
+
+[vba]
+line = "'"
+name = "VBA"
+
+[vbs]
+line = "'"
+name = "VBScript"
+
+[vh]
+line = "//"
+multi_start = "/*"
+multi_end = "*/"
+name = "Verilog"
+
+[vim]
+line = "\""
+name = "Vim Script"
+
+[wart]
+line = "#"
+name = "Wart"
+
+[wl]
+multi_start = "(*"
+multi_end = "*)"
+name = "Mathematica / Wolfram Language"
+
+[xhtml]
+multi_start = "<!--"
+multi_end = "-->"
+name = "XHTML"
+
+[xq]
+multi_start = "(:"
+multi_end = ":)"
+name = "XQuery"
+
+[xql]
+multi_start = "(:"
+multi_end = ":)"
+name = "XQuery"
+
+[xqm]
+multi_start = "(:"
+multi_end = ":)"
+name = "XQuery"
+
+[xquery]
+multi_start = "(:"
+multi_end = ":)"
+name = "XQuery"
+
+[xqy]
+multi_start = "(:"
+multi_end = ":)"
+name = "XQuery"
+
+[xslt]
+multi_start = "<!--"
+multi_end = "-->"
+name = "XSLT"
+
+[xul]
+multi_start = "<!--"
+multi_end = "-->"
+name = "XUL"
+
+[zig]
+line = "//"
+doc_line = "///"
+name = "zig"
+
+[zkl]
+line = "//"
+line_alt = "#"
+multi_start = "/*"
+multi_end = "*/"
+multi_solo_start = "#if 0"
+multi_solo_end = "#endif"
+multi_solo_start_alt = "#<<<#"
+multi_solo_end_alt = "#<<<#"
+name = "zkl"
+
+[znn]
+multi_start = "(*"
+multi_end = "*)"
+name = "zonnon"
+
+[zsh]
+line = "#"
+name = "UNIX Shell"
